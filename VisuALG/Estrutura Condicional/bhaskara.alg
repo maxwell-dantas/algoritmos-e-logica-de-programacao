@@ -1,11 +1,11 @@
 algoritmo "Bhaskara"
 
 //***********************************************************
-// Descrição:
-// Fazer um programa para ler os três coeficientes de uma
-// equação do segundo grau. Usando a fórmula de Bhaskara,
-// calcular e mostrar os valores das raízes x1 e x2 com
-// quatro casas decimais. Se a equação não possuir raízes
+// DescriÃ§Ã£o:
+// Fazer um programa para ler os trÃªs coeficientes de uma
+// equaÃ§Ã£o do segundo grau. Usando a fÃ³rmula de Bhaskara,
+// calcular e mostrar os valores das raÃ­zes x1 e x2 com
+// quatro casas decimais. Se a equaÃ§Ã£o nÃ£o possuir raÃ­zes
 // reais, mostrar uma mensagem.
 //***********************************************************
 
@@ -25,16 +25,20 @@ inicio
       delta <- exp(b,2) - 4 * a * c
       
       se (delta < 0) entao
-         escreva("Esta equação não possui raízes reais")
+         escreva("Esta equaÃ§Ã£o nÃ£o possui raÃ­zes reais")
       senao
-           se (delta = 0) entao
-              x1 <- (- b / (2 * a))
-              escreva("X' = ", x1:6:4)
+           se (a = 0) entao
+              escreva("Insira um valor vÃ¡lido para o coeficiente 'a'")
            senao
-                x1 <- (- b + raizq(delta)) / (2 * a)
-                x2 <- (- b - raizq(delta)) / (2 * a)
-                escreval("X' = ", x1:6:4)
-                escreva("X'' = ", x2:6:4)
+                se (delta = 0) entao
+                   x1 <- (- b / (2 * a))
+                   escreva("X' = ", x1:6:4)
+                senao
+                     x1 <- (- b + raizq(delta)) / (2 * a)
+                     x2 <- (- b - raizq(delta)) / (2 * a)
+                     escreval("X' = ", x1:6:4)
+                     escreva("X'' = ", x2:6:4)
+              fimse
            fimse
       fimse
 
