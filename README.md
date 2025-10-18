@@ -22,8 +22,8 @@ Os projetos estão organizados em pastas, separadas pela tecnologia ou linguagem
 Abaixo estão os módulos do curso que estou estudando. Marcarei cada um conforme for concluindo os exercícios.
 
 -   [x] Estrutura Sequencial
--   [ ] Estrutura Condicional
--   [ ] Estruturas Repetitivas
+-   [x] Estrutura Condicional
+-   [x] Estruturas Repetitivas
 -   [ ] Vetores
 -   [ ] Matrizes
 
