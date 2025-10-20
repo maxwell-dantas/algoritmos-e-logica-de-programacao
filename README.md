@@ -24,7 +24,7 @@ Abaixo estão os módulos do curso que estou estudando. Marcarei cada um conform
 -   [x] Estrutura Sequencial
 -   [x] Estrutura Condicional
 -   [x] Estruturas Repetitivas
--   [ ] Vetores
+-   [x] Vetores
 -   [ ] Matrizes
 
 ## 🛠️ Tecnologias Utilizadas
