@@ -1,25 +1,14 @@
 # 🚀 Algoritmos e Lógica de Programação
 
-Repositório dedicado ao meu aprendizado e à resolução dos exercícios do curso **"Algoritmos e Lógica de Programação"** do professor Nelio Alves. Aqui, documento meu progresso desde os conceitos fundamentais com VisualG (Portugol) até a implementação em linguagens de programação como Python e Java.
+Este repositório documenta minha jornada de estudos em **Algoritmos e Lógica de Programação**, com base no curso do professor Nelio Alves.
 
-## 📚 Sobre o Curso
+O objetivo principal do curso (Módulo 1) foi **aprender e dominar a lógica de programação**, o que foi feito utilizando o **VisualG (Portugol)**.
 
-O conteúdo deste repositório é baseado no curso da plataforma Udemy, que aborda os pilares da programação de forma estruturada.
+Agora, nesta segunda etapa (Módulo 2), o foco é **solidificar essa base lógica e dominar a sintaxe de linguagens de programação de mercado**. Para isso, estou seguindo a metodologia do professor, que seleciona algoritmos com peculiaridades didáticas para o aprendizado da sintaxe e o reforço contínuo da lógica.
 
-* **Curso:** [Algoritmos e Lógica de Programação - O Curso COMPLETO](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
-* **Instrutor:** Nelio Alves
+## ✨ Módulos-Base Concluídos (VisualG)
 
-## 📂 Estrutura do Repositório
-
-Os projetos estão organizados em pastas, separadas pela tecnologia ou linguagem utilizada:
-
-* **/VisuALG**: Contém os algoritmos resolvidos em Portugol, utilizando o VisualG. Cada subpasta representa um módulo do curso.
-* **/Python**: (Em breve) Conterá as mesmas soluções implementadas na linguagem Python.
-* **/Java**: (Em breve) Conterá as mesmas soluções ou exercícios mais avançados implementados na linguagem Java.
-
-## ✨ Tópicos Abordados
-
-Abaixo estão os módulos do curso que estou estudando. Marcarei cada um conforme for concluindo os exercícios.
+Estes são os módulos do curso, **já concluídos em VisualG**, que servem como base para os exercícios de implementação nas outras linguagens:
 
 -   [x] Estrutura Sequencial
 -   [x] Estrutura Condicional
@@ -27,10 +16,24 @@ Abaixo estão os módulos do curso que estou estudando. Marcarei cada um conform
 -   [x] Vetores
 -   [x] Matrizes
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Status das Implementações (Linguagens de Mercado)
 
-* **VisualG / Portugol**: Para a construção e teste da lógica dos algoritmos.
-* **C / C++ / Java / C# / Python**: Para a implementação dos algoritmos em uma linguagem de programação de mercado.
+Esta seção documenta o progresso da implementação dos algoritmos em cada linguagem, seguindo a trilha de aprendizado do curso.
+
+-   [x] **VisualG (Portugol)**: Base lógica concluída. [*(Ver pasta `/VisuALG`)*](./VisuALG)
+-   [ ] **C**: (Em andamento) - Foco em sintaxe e gerenciamento de memória. [*(Ver pasta `/C`)*](./C)
+-   [ ] **Java**: (Em breve) - Foco em sintaxe e fundamentos de POO.
+-   [ ] **Python**: (Em breve) - Foco em sintaxe e paradigmas da linguagem.
+-   [ ] **C#**: (Em breve) - Foco na sintaxe da plataforma .NET.
+-   [ ] **C++**: (Em breve) - Foco na sintaxe e paradigmas da linguagem.
+
+## 📚 Sobre o Curso
+
+O conteúdo deste repositório é baseado em um dos cursos mais completos da plataforma Udemy, abordando os pilares da programação de forma estruturada e progressiva.
+
+* **Curso:** [Algoritmos e Lógica de Programação - O Curso COMPLETO](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/)
+* **Instrutor:** Nelio Alves
 
 ---
-*Este repositório é um projeto de estudo pessoal. Sinta-se à vontade para explorar o código, mas o objetivo principal é registrar minha jornada de aprendizado.*
+
+*Este repositório é um projeto de estudo pessoal e documenta uma etapa fundamental na minha formação como desenvolvedor: a ponte entre a lógica pura e a aplicação em ferramentas de mercado, seguindo uma trilha de aprendizado otimizada. Sinta-se à vontade para explorar o código e acompanhar minha evolução.*
