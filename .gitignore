@@ -1,0 +1,10 @@
+# Ignorar arquivos executáveis compilados
+*.exe
+*.exe?
+
+# Ignorar arquivos de objeto intermediários
+*.o
+*.out
+
+# Ignorar arquivos de depuração do VS Code
+.vscode/launch.json
