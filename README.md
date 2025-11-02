@@ -30,7 +30,7 @@ Abaixo estão os módulos do curso que estou estudando. Marcarei cada um conform
 ## 🛠️ Tecnologias Utilizadas
 
 * **VisualG / Portugol**: Para a construção e teste da lógica dos algoritmos.
-* **Python / Java**: (Previstos) Para a implementação dos algoritmos em uma linguagem de programação de mercado.
+* **C / C++ / Java / C# / Python**: Para a implementação dos algoritmos em uma linguagem de programação de mercado.
 
 ---
 *Este repositório é um projeto de estudo pessoal. Sinta-se à vontade para explorar o código, mas o objetivo principal é registrar minha jornada de aprendizado.*
