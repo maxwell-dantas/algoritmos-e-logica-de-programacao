@@ -21,7 +21,7 @@ Estes são os módulos do curso, **já concluídos em VisualG**, que servem como
 Esta seção documenta o progresso da implementação dos algoritmos em cada linguagem, seguindo a trilha de aprendizado do curso.
 
 -   [x] **VisualG (Portugol)**: Base lógica concluída. [*(Ver pasta `/VisuALG`)*](./VisuALG)
--   [ ] **C**: (Em andamento) - Foco em sintaxe e gerenciamento de memória. [*(Ver pasta `/C`)*](./C)
+-   [x] **C**: **(Concluído)** - Foco em sintaxe e gerenciamento de memória. [*(Ver pasta `/C`)*](./C)
 -   [ ] **Java**: (Em breve) - Foco em sintaxe e fundamentos de POO.
 -   [ ] **Python**: (Em breve) - Foco em sintaxe e paradigmas da linguagem.
 -   [ ] **C#**: (Em breve) - Foco na sintaxe da plataforma .NET.
