@@ -23,9 +23,8 @@ Esta seção documenta o progresso da implementação dos algoritmos em cada lin
 -   [x] **VisualG (Portugol)**: Base lógica concluída. [*(Ver pasta `/VisuALG`)*](./VisuALG)
 -   [x] **C**: **(Concluído)** - Foco em sintaxe e gerenciamento de memória. [*(Ver pasta `/C`)*](./C)
 -   [x] **C++**: **(Concluído)** - Foco na sintaxe e paradigmas da linguagem. [*(Ver pasta `/CPP`)*](./CPP)
--   [ ] **Java**: (Em andamento) - Foco em sintaxe e fundamentos de POO.
--   [ ] **C#**: (Em breve) - Foco na sintaxe da plataforma .NET.
--   [ ] **Python**: (Em breve) - Foco em sintaxe e paradigmas da linguagem.
+-   [x] **Java**: **(Concluído)** - Foco em sintaxe e fundamentos de POO. [*(Ver pasta `/Java`)*](./Java)
+-   [ ] **Python**: (Em andamento) - Foco em sintaxe e paradigmas da linguagem.
 
 ## 📚 Sobre o Curso
 
