@@ -24,7 +24,7 @@ Esta seção documenta o progresso da implementação dos algoritmos em cada lin
 -   [x] **C**: **(Concluído)** - Foco em sintaxe e gerenciamento de memória. [*(Ver pasta `/C`)*](./C)
 -   [x] **C++**: **(Concluído)** - Foco na sintaxe e paradigmas da linguagem. [*(Ver pasta `/CPP`)*](./CPP)
 -   [x] **Java**: **(Concluído)** - Foco em sintaxe e fundamentos de POO. [*(Ver pasta `/Java`)*](./Java)
--   [ ] **Python**: (Em andamento) - Foco em sintaxe e paradigmas da linguagem.
+-   [x] **Python**: **(Concluído)** - Foco em sintaxe e paradigmas da linguagem. [*(Ver pasta `/Python`)*](./Python)
 
 ## 📚 Sobre o Curso
 
